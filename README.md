@@ -1,12 +1,12 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	
-Roll no 
+Name: Dharshini DS	
+Roll no: 212221230022
 Date of experiment:
 
 
 
-Ex. No. :
+Ex. No. : 8
 Date: 
  
 
